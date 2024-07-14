@@ -18,7 +18,7 @@ Step6:- Implement Endpoint for each operations having different usuage.
 Step7:- To run the application in IDE go to the terminal containing the file and apply below command to the
         app will run as a localhost connected to DB.
         Command:- uvicorn main:app --reload
-Step9:- Install Postman as a tool to run the endpoints and check whether we are able to implement CRUD operations and url and body
+Step8:- Install Postman as a tool to run the endpoints and check whether we are able to implement CRUD operations and url and body
         for the request are as follows:-
         GET ALL API:- 
             URL:- http://localhost:8000/students/
